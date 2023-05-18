@@ -1,0 +1,14 @@
+/*
+.product-container{
+    margin:5px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:flex-start;
+    
+} */
+
+.non{
+    display: flex;
+    justify-content: flex-start;
+}

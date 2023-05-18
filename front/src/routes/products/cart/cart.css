@@ -1,0 +1,26 @@
+
+.cart-img{
+    height:300px;
+    width:100%;
+    overflow: hidden;
+    
+}
+
+.img-section{
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart-detail{
+    background-color: chocolate;
+    text-align: right;
+}
+
+.cart-pay-btn{
+    float: right;
+}
+
+.cart-page{
+    justify-content: center;
+}

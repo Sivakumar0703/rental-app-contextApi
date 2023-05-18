@@ -1,0 +1,25 @@
+
+.footer{
+    background-color: darkgray;
+    padding:3px;
+    font-size: medium;
+    line-height: 2;
+}
+
+.footer-starts >div> h4{
+    color:orangered
+}
+
+.footer-starts{
+    display:flex;
+    justify-content: space-between;
+}
+
+.footer-starts>div>p:hover{
+    cursor: pointer;
+}
+
+.icon:hover{
+    cursor: pointer;
+    background-color: white;
+}

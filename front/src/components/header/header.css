@@ -1,0 +1,36 @@
+.header{
+    background-color: cadetblue;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header-left{
+    display:flex;
+    flex-direction: row; 
+    justify-content: baseline;
+}
+
+.header-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    padding:5px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.login{
+    background-color: chartreuse;
+}
+
+.signup{
+    background-color: crimson;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
